@@ -42,4 +42,4 @@ Hotels App, kullanıcıların yakınlarındaki konaklama noktalarını bulmalar�
 
 # Ekran Görüntüsü
 
-![](../images/hotels.gif)
+![](./frontend/images/hotels.gif)
