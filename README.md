@@ -40,4 +40,6 @@ Hotels App, kullanıcıların yakınlarındaki konaklama noktalarını bulmalar�
 - react-icons
 - tailwind
 
-![](./images/hotels.gif)
+# Ekran Görüntüsü
+
+![](../images/hotels.gif)
